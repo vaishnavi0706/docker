@@ -6,5 +6,5 @@
 # Task2 - compare Bind mount & Named volume
 
 
-![Task 2 Screenshot]((day3-task/task2.png)
+![Task 2 Screenshot](day3-task/task2.png)
 ![Task 2.1 Screenshot](day3-task/task2.1.png)
